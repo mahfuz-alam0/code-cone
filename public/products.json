@@ -1,0 +1,66 @@
+[
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "HTML5",
+    "salary": "2-4",
+    "time": 120,
+    "img": "./images/html.png"
+  },
+  {
+    "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+    "name": "CSS3",
+    "salary": "2-5",
+    "time": 120,
+    "img": "./images/css.png"
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+    "name": "Javascript",
+    "salary": "8-10",
+    "time": 150,
+    "img": "./images/javascript.png"
+  },
+  {
+    "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+    "name": "ES6",
+    "salary": "8-12",
+    "time": 60,
+    "img": "./images/es6.png"
+  },
+  {
+    "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+    "name": "Tailwind CSS",
+    "salary": "4-6",
+    "time": 110,
+    "img": "./images/tailwind.png"
+  },
+  {
+    "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+    "name": "Node.js",
+    "salary": "10-15",
+    "time": 45,
+    "img": "./images/node.png"
+  },
+  {
+    "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+    "name": "Express.js",
+    "salary": "8-15",
+    "time": 70,
+    "img": "./images/express.png"
+  },
+  {
+    "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+    "name": "MongoDB",
+    "salary": "13-17",
+    "time": 120,
+    "img": "./images/mongodb.png"
+  },
+  {
+    "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
+    "name": "Golang",
+    "salary": "15-25",
+    "time": 175,
+    "img": "./images/Golang.png"
+  }
+  
+]

@@ -1,0 +1,55 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.main_container{
+    display: grid;
+    grid-template-columns: 4fr 1.5fr;
+    gap: 50px;
+}
+.product_container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 35px;
+    margin-bottom: 100px;
+}
+.name_icon{
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.name_icon img{
+    width: 100px;
+    
+}
+.code{
+    color:#2DBDED;
+}
+.corner{
+    color: #E9484B;
+}
+.couese_sele{
+    margin-bottom: 40px;
+}
+.couese_sele p{
+    color: #4A84EA;
+    font-size: 25px;
+}
+@media screen and (max-width:1150px) {
+    .product_container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media screen and (max-width:950px) {
+    .product_container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .product {
+        width: 350px;
+        margin: auto;
+    }
+}
+@media screen and (max-width:650px) {
+    .main_container {
+        grid-template-columns: 1fr;
+    }
+}
